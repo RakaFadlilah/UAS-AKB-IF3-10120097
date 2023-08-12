@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068383696094",
+    "project_id": "catatanharian-fcaa0",
+    "storage_bucket": "catatanharian-fcaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068383696094:android:d5b1afd14d035f422f7e4f",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_if3_10120097"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068383696094-4r6hm2h0bpd9bgl5q3flqedacdquoctf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcc1qoiaYmNdrh_cAR9YXoqHSJS5FW2Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068383696094-4r6hm2h0bpd9bgl5q3flqedacdquoctf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
